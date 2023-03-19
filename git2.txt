@@ -3,6 +3,4 @@ i. working area
 ii. Staging area
 iii. commit area
 
-
-
-
+let's now learn about Remote Repos
